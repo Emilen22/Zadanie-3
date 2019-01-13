@@ -1,6 +1,6 @@
 public class DrinkBase {
     String drinkName;
-    String drinkPrice;
+    int drinkPrice;
     String drinkType;
     Components components;
 
